@@ -1,0 +1,195 @@
+{
+            "./Img/windows11/SmallTile.scale-100.png",
+            "./Img/windows11/SmallTile.scale-125.png",
+            "./Img/windows11/SmallTile.scale-150.png",
+            "./Img/windows11/SmallTile.scale-200.png",
+            "./Img/windows11/SmallTile.scale-400.png",
+            "./Img/windows11/Square150x150Logo.scale-100.png",
+            "./Img/windows11/Square150x150Logo.scale-125.png",
+            "./Img/windows11/Square150x150Logo.scale-150.png",
+            "./Img/windows11/Square150x150Logo.scale-200.png",
+            "./Img/windows11/Square150x150Logo.scale-400.png",
+            "./Img/windows11/Wide310x150Logo.scale-100.png",
+            "./Img/windows11/Wide310x150Logo.scale-125.png",
+            "./Img/windows11/Wide310x150Logo.scale-150.png",
+            "./Img/windows11/Wide310x150Logo.scale-200.png",
+            "./Img/windows11/Wide310x150Logo.scale-400.png",
+            "./Img/windows11/LargeTile.scale-100.png",
+            "./Img/windows11/LargeTile.scale-125.png",
+            "./Img/windows11/LargeTile.scale-150.png",
+            "./Img/windows11/LargeTile.scale-200.png",
+            "./Img/windows11/LargeTile.scale-400.png",
+            "./Img/windows11/Square44x44Logo.scale-100.png",
+            "./Img/windows11/Square44x44Logo.scale-125.png",
+            "./Img/windows11/Square44x44Logo.scale-150.png",
+            "./Img/windows11/Square44x44Logo.scale-200.png",
+            "./Img/windows11/Square44x44Logo.scale-400.png",
+            "./Img/windows11/StoreLogo.scale-100.png",
+            "./Img/windows11/StoreLogo.scale-125.png",
+            "./Img/windows11/StoreLogo.scale-150.png",
+            "./Img/windows11/StoreLogo.scale-200.png",
+            "./Img/windows11/StoreLogo.scale-400.png",
+            "./Img/windows11/SplashScreen.scale-100.png",
+            : "620x300
+            "./Img/windows11/SplashScreen.scale-125.png",
+            : "775x375
+            "./Img/windows11/SplashScreen.scale-150.png",
+            : "930x450
+            "./Img/windows11/SplashScreen.scale-200.png",
+            : "1240x600
+            "./Img/windows11/SplashScreen.scale-400.png",
+            : "2480x1200
+            "./Img/windows11/Square44x44Logo.targetsize-16.png",
+            : "16x16
+            "./Img/windows11/Square44x44Logo.targetsize-20.png",
+            : "20x20
+            "./Img/windows11/Square44x44Logo.targetsize-24.png",
+            : "24x24
+            "./Img/windows11/Square44x44Logo.targetsize-30.png",
+            : "30x30
+            "./Img/windows11/Square44x44Logo.targetsize-32.png",
+            : "32x32
+            "./Img/windows11/Square44x44Logo.targetsize-36.png",
+            : "36x36
+            "./Img/windows11/Square44x44Logo.targetsize-40.png",
+            : "40x40
+            "./Img/windows11/Square44x44Logo.targetsize-44.png",
+            : "44x44
+            "./Img/windows11/Square44x44Logo.targetsize-48.png",
+            : "48x48
+            "./Img/windows11/Square44x44Logo.targetsize-60.png",
+            : "60x60
+            "./Img/windows11/Square44x44Logo.targetsize-64.png",
+            : "64x64
+            "./Img/windows11/Square44x44Logo.targetsize-72.png",
+            : "72x72
+            "./Img/windows11/Square44x44Logo.targetsize-80.png",
+            : "80x80
+            "./Img/windows11/Square44x44Logo.targetsize-96.png",
+            : "96x96
+            "./Img/windows11/Square44x44Logo.targetsize-256.png",
+            : "256x256
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-16.png",
+            : "16x16
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-20.png",
+            : "20x20
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-24.png",
+            : "24x24
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-30.png",
+            : "30x30
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-32.png",
+            : "32x32
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-36.png",
+            : "36x36
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-40.png",
+            : "40x40
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-44.png",
+            : "44x44
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-48.png",
+            : "48x48
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-60.png",
+            : "60x60
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-64.png",
+            : "64x64
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-72.png",
+            : "72x72
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-80.png",
+            : "80x80
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-96.png",
+            : "96x96
+            "./Img/windows11/Square44x44Logo.altform-unplated_targetsize-256.png",
+            : "256x256
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png",
+            : "16x16
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png",
+            : "20x20
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png",
+            : "24x24
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png",
+            : "30x30
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png",
+            : "32x32
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png",
+            : "36x36
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png",
+            : "40x40
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png",
+            : "44x44
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png",
+            : "48x48
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png",
+            : "60x60
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png",
+            : "64x64
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png",
+            : "72x72
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png",
+            : "80x80
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png",
+            : "96x96
+            "./Img/windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+            : "256x256
+            "./Img/android/android-launchericon-512-512.png",
+            : "512x512
+            "./Img/android/android-launchericon-192-192.png",
+            : "192x192
+            "./Img/android/android-launchericon-144-144.png",
+            : "144x144
+            "./Img/android/android-launchericon-96-96.png",
+            : "96x96
+            "./Img/android/android-launchericon-72-72.png",
+            : "72x72
+            "./Img/android/android-launchericon-48-48.png",
+            : "48x48
+            "./Img/ios/16.png",
+            : "16x16
+            "./Img/ios/20.png",
+            : "20x20
+            "./Img/ios/29.png",
+            : "29x29
+            "./Img/ios/32.png",
+            : "32x32
+            "./Img/ios/40.png",
+            : "40x40
+            "./Img/ios/50.png",
+            : "50x50
+            "./Img/ios/57.png",
+            : "57x57
+            "./Img/ios/58.png",
+            : "58x58
+            "./Img/ios/60.png",
+            : "60x60
+            "./Img/ios/64.png",
+            : "64x64
+            "./Img/ios/72.png",
+            : "72x72
+            "./Img/ios/76.png",
+            : "76x76
+            "./Img/ios/80.png",
+            : "80x80
+            "./Img/ios/87.png",
+            : "87x87
+            "./Img/ios/100.png",
+            : "100x100
+            "./Img/ios/114.png",
+            : "114x114
+            "./Img/ios/120.png",
+            : "120x120
+            "./Img/ios/128.png",
+            : "128x128
+            "./Img/ios/144.png",
+            : "144x144
+            "./Img/ios/152.png",
+            : "152x152
+            "./Img/ios/167.png",
+            : "167x167
+            "./Img/ios/180.png",
+            : "180x180
+            "./Img/ios/192.png",
+            : "192x192
+            "./Img/ios/256.png",
+            : "256x256
+            "./Img/ios/512.png",
+            : "512x512
+            "./Img/ios/1024.png",
+            : "1024x102
